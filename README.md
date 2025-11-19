@@ -25,3 +25,4 @@ git push -u origin main
 
 ## Assignment checklist (what this project implements)
 - Redux-related files: `store/store.js`, `features/cart/cartSlice.js`, `features/products/productsSlice.js`.
+"# PlantShop" 
